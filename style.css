@@ -296,7 +296,7 @@ h6 {
     top: 0;
     height: 100%;
     width: 100%;
-    background-image: url(../img1/home-bg.jpg);
+    background-image: url(../home-bg.jpg);
     background-attachment: fixed;
     background-size: cover;
     background-position: center;
